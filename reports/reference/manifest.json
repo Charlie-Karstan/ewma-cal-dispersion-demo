@@ -11,7 +11,6 @@
     "Reference fills are hypothetical midpoint fills.",
     "Variance sleeve includes fractional option equivalents.",
     "Cash income is collateral interest and not dispersion alpha.",
-    "The later period has been examined; no independent OOS validation is claimed.",
     "Sizing is clipped to an aggregate margin proxy; this is not a broker margin guarantee.",
     "Extra collateral above initial capital is charged the prior Treasury rate plus the configured funding spread.",
     "Larger midpoint fills and fractional scaled option equivalents are hypothetical.",

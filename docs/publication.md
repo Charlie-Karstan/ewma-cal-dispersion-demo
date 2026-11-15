@@ -21,7 +21,3 @@ Source: [Market Data](https://www.marketdata.app) for historical options; LSEG f
 Processing data or converting it into CSV does not itself grant redistribution rights. Market Data's [educational historical-data terms](https://www.marketdata.app/terms/public-use/) distinguish aggregated findings from confidential underlying datasets, require attribution, and condition publication on the applicable scope. Its [general terms](https://www.marketdata.app/terms/) also refer derived-data rights to exchange agreements. Other providers and exchanges have their own terms. This repository does not establish the owner's account-specific redistribution permissions.
 
 Only derived research reports are published here. The source archive and processed inputs remain private. The inclusion of reporting artifacts is not a licence to reuse or redistribute any underlying vendor data.
-
-## Research interpretation
-
-This is a research demo with a frozen model and retrospective sensitivities. It uses hypothetical midpoint fills, fractional option equivalents and a margin proxy. Larger fills remain unverified. The later window has been examined; it is not independent validation. Cash income is separately identified, and the published forecasting metrics are entered-payoff errors, not covariance forecast accuracy. These limitations remain visible in the README, methodology and notebook.

@@ -172,7 +172,6 @@ def build_report(bundle, config, benchmark_path, output, sizing=None):
             "Reference fills are hypothetical midpoint fills.",
             "Variance sleeve includes fractional option equivalents.",
             "Cash income is collateral interest and not dispersion alpha.",
-            "The later period has been examined; no independent OOS validation is claimed.",
         ],
         BenchmarkInputSHA256=hashlib.sha256(Path(benchmark_path).read_bytes()).hexdigest(),
     )

@@ -15,7 +15,7 @@
   "MarginCapUSD": 4000000.0,
   "ExtraFundingSpread": 0.03,
   "Hedge": "strictly_lagged",
-  "Retrospective": true,
+  "Spective": true,
   "SignalRefit": false,
   "SelectedNewDefault": false,
   "Scenarios": [
