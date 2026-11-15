@@ -1,0 +1,9 @@
+{
+  "Symbol": "SPY",
+  "Description": "S&P 500 total-return proxy; ETF adjusted close includes distributions and fund expenses",
+  "Provider": "Yahoo Finance via yfinance",
+  "RetrievedUTC": "2026-11-14T21:08:00.854867+00:00",
+  "Start": "2015-12-31",
+  "End": "2026-11-10",
+  "Rows": 2731
+}

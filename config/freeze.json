@@ -1,0 +1,21 @@
+{
+  "Name": "prof2_EWMA_CAL_size8_cap4m_funded",
+  "Version": "2.2.0",
+  "FrozenUTC": "2026-11-14T22:08:07.601664+00:00",
+  "ParentRelease": "233cbd2",
+  "ParentResearch": "82c96a3",
+  "Reason": "User chose the saved 8x-target, $4m-cap model with explicit extra collateral funding before this leverage grid.",
+  "SHA256": {
+    "config/model.json": "568f2760ba3db4c15b8ac8888160596d45627458fe1e8cd3d7307defb7188d08",
+    "config/sizing.json": "326c5c140a3b616e3f15e9d3fe641b95e6807d247ac07e40116220fec6206f31",
+    "src/ewma_cal/strategy.py": "bb6fa242dbc1b9760c9a5338183d68dfb91aefe32fe3d1fcf8fb133d62e01050",
+    "src/ewma_cal/signals.py": "e800643d2039ba496d6d1a3fe54b4d61c7d8704032648a1e9332f732b6021bf1",
+    "src/ewma_cal/sizing.py": "c76189f8f1cd3099aa6d4febd19316663c607a0b4d4f2b6426670a7d48eda147",
+    "src/ewma_cal/cash.py": "31940cc76d78db18ec75d0cd8daab5c18999334f81ded0e3ef496e44058e41d7",
+    "src/ewma_cal/accounting.py": "176cf94138a81b952061fdd0e00840d917f4f7e07f3d9d59767ec1961564ad72",
+    "src/ewma_cal/opportunities.py": "4b9f8482df9acb6ccaeb32da2a013b4afad8f911027522556db2a0994480a6da",
+    "src/ewma_cal/covariance.py": "7d8e53d5dfdf5d3c5ec55d955f14627552b072e59dec8cdd1b88278248d284c6",
+    "src/ewma_cal/pricing.py": "8a572f09aa69045c1a9e55817a67a14bbe149cd50bf71c12624652a83323404e",
+    "src/ewma_cal/hedging.py": "4ddd8e6b1cb60e6a8c016e475c8d5770d660af5391bd802f614e475d8eac43d8"
+  }
+}

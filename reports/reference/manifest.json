@@ -1,0 +1,28 @@
+{
+  "Model": "prof2_EWMA_CAL_size8_cap4m_funded",
+  "Version": "2.2.0",
+  "Hedge": "strictly_lagged",
+  "Gate": 0.15,
+  "Capital": 2000000,
+  "Start": "2016-01-04",
+  "End": "2026-11-10",
+  "Benchmark": "SPY adjusted close, total-return proxy for the S&P 500",
+  "Qualifications": [
+    "Reference fills are hypothetical midpoint fills.",
+    "Variance sleeve includes fractional option equivalents.",
+    "Cash income is collateral interest and not dispersion alpha.",
+    "The later period has been examined; no independent OOS validation is claimed.",
+    "Sizing is clipped to an aggregate margin proxy; this is not a broker margin guarantee.",
+    "Extra collateral above initial capital is charged the prior Treasury rate plus the configured funding spread.",
+    "Larger midpoint fills and fractional scaled option equivalents are hypothetical.",
+    "Payoff predictions precede the additional collateral-funding stress."
+  ],
+  "BenchmarkInputSHA256": "47bbefb4cf6f584de00b3fffaae234c3f56309e207c6ffbff9ff9d7720f316f1",
+  "Sizing": {
+    "name": "prof2_EWMA_CAL_size8_cap4m_funded",
+    "version": "2.2.0",
+    "target_scale": 8.0,
+    "margin_cap_usd": 4000000.0,
+    "extra_funding_spread": 0.03
+  }
+}

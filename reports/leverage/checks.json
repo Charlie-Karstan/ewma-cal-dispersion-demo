@@ -1,0 +1,93 @@
+{
+  "FrozenTarget": 8.0,
+  "Scales": [
+    0.5,
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    6.0,
+    8.0,
+    10.0,
+    12.0,
+    16.0
+  ],
+  "MarginCapUSD": 4000000.0,
+  "ExtraFundingSpread": 0.03,
+  "Hedge": "strictly_lagged",
+  "Retrospective": true,
+  "SignalRefit": false,
+  "SelectedNewDefault": false,
+  "Scenarios": [
+    {
+      "TargetScale": 0.5,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    },
+    {
+      "TargetScale": 1.0,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    },
+    {
+      "TargetScale": 2.0,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    },
+    {
+      "TargetScale": 3.0,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    },
+    {
+      "TargetScale": 4.0,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    },
+    {
+      "TargetScale": 6.0,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    },
+    {
+      "TargetScale": 8.0,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    },
+    {
+      "TargetScale": 10.0,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    },
+    {
+      "TargetScale": 12.0,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    },
+    {
+      "TargetScale": 16.0,
+      "MarginCapRespected": true,
+      "FundingFullyAllocated": true,
+      "TradePnLReconciles": true,
+      "SignalsUnchanged": true
+    }
+  ]
+}

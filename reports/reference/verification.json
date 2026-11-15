@@ -1,0 +1,15 @@
+{
+  "ParentRelease": "233cbd2",
+  "ParentResearch": "82c96a3",
+  "OriginalFrozenReviewReproduced": true,
+  "TradePnLReconciles": true,
+  "MarginProxyCapRespected": true,
+  "FundingFullyAllocated": true,
+  "SignalParametersUnchanged": true,
+  "Retrospective": true,
+  "ShadowOpportunityCounts": {
+    "vega": 340,
+    "variance": 160
+  },
+  "Source": "Frozen core plus deterministic capacity-clipped sizing and additional funding."
+}

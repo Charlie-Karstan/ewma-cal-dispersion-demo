@@ -1,0 +1,7 @@
+{
+  "name": "prof2_EWMA_CAL_size8_cap4m_funded",
+  "version": "2.2.0",
+  "target_scale": 8.0,
+  "margin_cap_usd": 4000000.0,
+  "extra_funding_spread": 0.03
+}

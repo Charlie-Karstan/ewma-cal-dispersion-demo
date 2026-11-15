@@ -1,0 +1,11 @@
+{
+  "HoldSessions": 5,
+  "N": 2047,
+  "ExcludedIncomplete": 0,
+  "MeanImplied": 0.3539049045275996,
+  "MeanRealized": 0.3098823888792171,
+  "MeanGap": 0.04402251564838252,
+  "Definition": "Implied equicorrelation proxy from DIA and point-in-time Dow constituent straddle IVs; realized weighted equicorrelation from uncentered return second moments over sessions t+2 through t+6. Monthly means plotted by label/exit month; mean gap equally weights paired daily observations. No clipping.",
+  "Source": "Market Data options; LSEG underlying returns and point-in-time weights. Overlapping horizons; descriptive statistics, not independent samples.",
+  "ImpliedTenor": "Option expiry nearest 30 calendar days, permitted range 14\u201370 days; not a five-day implied-correlation forecast."
+}

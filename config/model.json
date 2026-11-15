@@ -1,0 +1,7 @@
+{
+  "name": "prof2_EWMA_CAL",
+  "version": "2.1.0",
+  "capital": 2000000,
+  "vega_gate": 0.15,
+  "hedge_timing": "strictly_lagged"
+}
